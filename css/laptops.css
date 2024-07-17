@@ -1,0 +1,6 @@
+/* 1024px */
+@media (max-width:1024px){
+    .header{
+        padding: 32px 32px;
+    }
+}

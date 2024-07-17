@@ -1,0 +1,9 @@
+/* 480px */
+@media(max-width:480px){
+    .header{
+        padding: 32px 8px;
+    }
+    .section2{
+        width: calc(464 / 480 * 100%);
+    }
+}
